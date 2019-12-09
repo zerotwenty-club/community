@@ -4,4 +4,6 @@ Zero Twenty is a Mastermind group for people building digital products. Our webs
 
 ## Documents
 * `organization.md`
+* `moderation.md`
 * `code-of-conduct.md`
+* 
